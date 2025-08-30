@@ -23,20 +23,20 @@ Modular route structure
 
 ## 📂 Project Structure
 
-project-root/
-├── backend/
+-**`project-root/`**
+├── **`backend/`**
 │   ├── server.js        # Express server entry point
 │   ├── routes/books.js  # CRUD routes for books
 │   └── models/Book.js   # Book schema/model (if using DB later)
 │
-├── frontend/
-│   ├── src/
+├── **`frontend/`**
+│   ├── **`src/`**
 │   │   ├── components/  # Reusable components (Spinner, BookList, etc.)
 │   │   ├── pages/       # Page-level components (Home, EditBook, etc.)
 │   │   └── App.jsx      # Main React app
 │   └── vite.config.js   # Vite config
 │
-└── README.md
+└── **`README.md`**
 
 
 ## ⚙️ Installation & Setup
