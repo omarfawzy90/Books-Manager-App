@@ -1,8 +1,8 @@
-**📚 Books Manager App**
+# 📚 Books Manager App
 A full-stack web application built with React (Vite) on the frontend and Node.js + Express on the backend.
 This project allows users to manage a list of books (create, read, update, delete) with a simple and responsive UI.
 
-**🚀 Features**
+## 🚀 Features
 📖 View all books
 ➕ Add a new book
 ✏️ Edit existing books
@@ -10,7 +10,7 @@ This project allows users to manage a list of books (create, read, update, delet
 🎨 Modern UI with optional animated Silk background
 
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack
 Frontend (React + Vite)
 React with functional components & hooks
 Axios for API requests
@@ -21,7 +21,7 @@ Middleware for JSON parsing
 Modular route structure
 
 
-**📂 Project Structure**
+## 📂 Project Structure
 
 project-root/
 ├── backend/
@@ -39,7 +39,7 @@ project-root/
 └── README.md
 
 
-**⚙️ Installation & Setup**
+## ⚙️ Installation & Setup
 
 1. Clone the repo
 git clone https://github.com/your-username/books-manager.git
@@ -60,7 +60,7 @@ Frontend will run at:
 👉 http://localhost:5173
 
 
-**🔗 API Endpoints**
+## 🔗 API Endpoints
 
 | Method | Endpoint     | Description    |
 | ------ | ------------ | -------------- |
@@ -70,9 +70,9 @@ Frontend will run at:
 | DELETE | `/books/:id` | Delete a book  |
 
 
-**🎨 Customization**
+ ## 🎨 Customization
 Background → Edit App.jsx to add/remove the lighrays component for an animated background.
 Colors → Change Tailwind classes or lightsrays props (color, scale, speed) to fit your theme.
 
-**License**
+## License
 This project is open-source under the MIT License.
